@@ -24,11 +24,11 @@ SYS_CONFIG = {
 
     # 测试号appID，非必填
     # 需要测试号发送时必填
-    "appid": "",
+    "appid": "wxdea120a5d26257a2",
 
     # 测试号appsecret，非必填
     # 需要测试号发送时必填
-    "appsecret": "",
+    "appsecret": "83002967cd67e4ac6413e08c0f348a67",
 
     # 测试号后台用户微信号，非必填
     # 需要测试号发送时必填
