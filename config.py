@@ -12,33 +12,33 @@ import os
 SYS_CONFIG = {
     # 企业微信企业ID，非必填
     # 需要发送企业微信消息时必填
-    "corpid": "",
+    "corpid": "wwc90f06f783c5b34b",
 
     # 企业微信应用Secret，非必填
     # 需要发送企业微信消息时必填
-    "corpsecret": "",
+    "corpsecret": "hcR3s9Wdb3ltRUHNBqpERTFNpzV6-1NQ2ukGq8Al5Ro",
 
     # 企业微信AgentId，非必填
     # 需要发送企业微信消息时必填
-    "agentid": "",
+    "agentid": "1000002",
 
     # 测试号appID，非必填
     # 需要测试号发送时必填
-    "appid": "wxdea120a5d26257a2",
+    "appid": "",
 
     # 测试号appsecret，非必填
     # 需要测试号发送时必填
-    "appsecret": "83002967cd67e4ac6413e08c0f348a67",
+    "appsecret": "",
 
     # 测试号后台用户微信号，非必填
     # 需要测试号发送时必填
     # 多用户以&&分割
     # 例如：abc123&&def456
-    "userid": "o-f8z6XUe-fpjczhoDgnbuu8SXqw",
+    "userid": "o-f8z6XUe-",
 
     # 测试号模板ID，非必填
     # 需要测试号发送时必填
-    "templateid": "UN5h5FvyS9rxvsC1U0fOM4rpkR7ElrIuEcr46Kpc2Ss",
+    "templateid": "",
 
     # 发送邮件的邮箱地址，非必填
     # 需要发送邮件时必填
